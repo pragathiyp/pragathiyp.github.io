@@ -48,11 +48,13 @@ function Hero() {
         <p>
           I’ve worked on projects in multimodal summarization, multimodal video and text generation, intelligent video captioning, cultarally-aware NLP and performance optimization of LLMs. My goal is to bridge the gap between language, vision, and reasoning systems for more natural communication with AI. I also love <b>coding</b> on various platforms like Leetcode, GeeksforGeeks and others using <b>Java and Python.</b> I have also worked on a few other tech stacks in <b>web development, building network and data centre infrastructure, as well as shell scripting</b>.
         </p>
+        <img src="/research.jpg" alt="Research Interests Diagram" />
+
         <p>
           <b>Outside research:</b> 🎨 painting, 🏸 badminton, 🏊‍♀️ swimming, 🏓 table tennis , 🏐 volleyball - anything sports, fun and creativity!
         </p>
-      </div>
 
+      </div>
       {/* Academic Links */}
       <div className="hero-links">
         <a href="https://scholar.google.co.in/citations?hl=en&user=P2FSLdgAAAAJ" target="_blank" rel="noopener noreferrer">📚 Google Scholar</a>
