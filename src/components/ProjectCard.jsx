@@ -71,7 +71,7 @@ function ProjectCard({ title, description, technologies, link, image }) {
                     rel="noopener noreferrer"
                     className="project-link"
                   >
-                    {item.icon || "Link: "} {item.label}
+                    {item.icon || "🔗"} {item.label}
                   </a>
                 ))
               ) : (
@@ -81,7 +81,7 @@ function ProjectCard({ title, description, technologies, link, image }) {
                   rel="noopener noreferrer"
                   className="project-link"
                 >
-                  Link: Github
+                  🔗 Github
                 </a>
               )}
             </div>
