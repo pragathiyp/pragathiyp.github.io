@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import "./index.css";
+import Hero from "./components/Hero";
 
 function App() {
   return (

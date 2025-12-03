@@ -427,7 +427,14 @@ button:hover {
   border-radius: 16px;
   background-color: #f1f5f9; /* optional: light bg for empty space */
 }
+.research-image{
+  width: 100%;
+  height: auto;        /* maintain aspect ratio */
+  object-fit: contain;  /* show full image without cropping */
+  border-radius: 16px;
+  background-color: #f8fafc; /* optional: light bg for empty space */
 
+}
 
 .project-content {
   flex: 1 1 35%;           /* description occupies remaining space */
